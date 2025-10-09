@@ -5,6 +5,7 @@
   name="OpenJVerein Repository">
 
   <plugins name="OpenJVerein 3">
+<plugin url="https://openjverein.github.io/jameica-repository/3.5"/>
 <plugin url="https://openjverein.github.io/jameica-repository/3.4"/>
 <plugin url="https://openjverein.github.io/jameica-repository/3.3"/>
      <plugin url="https://openjverein.github.io/jameica-repository/3.2"/>
